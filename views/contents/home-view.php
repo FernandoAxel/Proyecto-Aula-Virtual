@@ -1,5 +1,5 @@
 <div class="page-header">
-	<h1 class="text-titles"><i class="zmdi zmdi-store zmdi-hc-fw"></i> Bienvenido a <small><?php echo COMPANY; ?></small></h1>
+	<h1 class="text-titles"><i class="zmdi zmdi-store zmdi-hc-fw"></i>Bienvenido a <small><?php echo COMPANY; ?></small></h1>
 </div>
 <div class="container-fluid">
 	<div class="row">
