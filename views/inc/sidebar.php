@@ -8,7 +8,7 @@
 		<!-- SideBar User info -->
 		<div class="full-box dashboard-sideBar-UserInfo">
 			<figure class="full-box">
-				<img src="<?php echo SERVERURL; ?>views/assets/img/logo.png" alt="UserIcon">
+				<img src="<?php echo SERVERURL; ?>views/assets/img/utma.jpeg" alt="UserIcon">
 				<figcaption class="text-center text-titles"><?php echo $_SESSION['userName']; ?></figcaption>
 			</figure>
 			<ul class="full-box list-unstyled text-center">
